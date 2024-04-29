@@ -25,4 +25,4 @@ Step 11. Created CSS style sheet to add design and work on UI/UX
 
 Step 12. Published the chatbot for users to access it with this provided link 
 
-Screenshot 2024-04-24 091601.png
+
