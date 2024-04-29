@@ -24,3 +24,5 @@ Step 10. Trained the chatbot
 Step 11. Created CSS style sheet to add design and work on UI/UX 
 
 Step 12. Published the chatbot for users to access it with this provided link 
+
+https://github.com/maryamjams/My-Projects/blob/main/Screenshot%202023-07-20%20112300.png
