@@ -1,4 +1,5 @@
-# Chatbot
+
+![]# Chatbot
 Created a chatbot using Botpress 
 
 Step 1. Signed up for the Botpress tool
@@ -26,7 +27,7 @@ Step 11. Created CSS style sheet to add design and work on UI/UX
 Step 12. Published the chatbot for users to access it with this provided link 
 
 ![](https://github.com/maryamjams/My-Projects/blob/main/images/Chatbot.png)
-!
+![](https://github.com/maryamjams/My-Projects/blob/main/images/Chatbot.png)
 
 
 
