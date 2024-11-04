@@ -29,8 +29,18 @@ Step 12. Published the chatbot for users to access it with this provided link
 ![](https://github.com/maryamjams/My-Projects/blob/main/images/Chatbot.png)
 ![](https://github.com/maryamjams/My-Projects/blob/main/images/Chatbot.png)
 
-![]# Random
 ![](https://github.com/maryamjams/My-Projects/blob/main/images/Ad%20tech%20harbour.png)
 
+# PowerBI Data Visualization
+I have created the visualization report of a Cookie Company for three years sales, profit, risks, monthly and yearly revenue and
+overall business overview through visualiztion of the data found in their sheets. 
 
+Step 1: Gathered data from different sources i.e database, website, and inventory regional files.
+
+Step 2: Cleaned the data using Power Query and Excel
+
+Step 3: Loaded all datasets into Power Query Editor for initial cleaning, where I removed unnecessary columns, 
+handled missing data, and standardized formats (e.g., dates and currencies).
+
+Step 4: Applied transformations such as filtering rows, splitting columns, and creating calculated columns for essential metrics (like ‘Total Revenue’ and ‘Sales Growth’).
 
