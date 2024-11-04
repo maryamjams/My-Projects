@@ -1,5 +1,5 @@
 
-![]# Chatbot
+# Chatbot
 Created a chatbot using Botpress 
 
 Step 1. Signed up for the Botpress tool
