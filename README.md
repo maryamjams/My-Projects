@@ -12,6 +12,44 @@ Step 5 - Used python codes to change color of spiral and create beuatiful spiral
 
 ![](https://github.com/maryamjams/My-Projects/blob/main/images/AI%20man.png)
 
+# Angry Bird Game With Coding Blocks
+
+Step 1 - Developed an angry bird game with coding blocks 
+
+Steps 2 - The game uses fully functional code to take angry bird towards pig
+
+Step 3 - Target is to kill the pig and you win the game
+
+![](https://github.com/maryamjams/My-Projects/blob/main/images/AI%20man.png)
+
+
+
+# Racing Gaame 
+
+Step 1 - Created a Racing game using Scratch 
+
+Step 2 - Used coding blocks to develop the game
+
+Step 3 - Racing game shows the racing of two cars 
+
+![](https://github.com/maryamjams/My-Projects/blob/main/images/AI%20man.png)
+
+
+
+# Space Game
+
+Step 1 - Created a space game where user has to kill objects in order to save planet
+
+Step 2 - This game is developed using coding blocks on scratch
+
+Step 3 - The game overs if you touch the object 
+
+![](https://github.com/maryamjams/My-Projects/blob/main/images/AI%20man.png)
+
+
+
+
+
 
 
 # Chatbot
