@@ -10,7 +10,7 @@ Step 4 - Used While loop and functions to create different shapes
 
 Step 5 - Used python codes to change color of spiral and create beuatiful spirals
 
-
+![](https://github.com/maryamjams/My-Projects/blob/main/images/AI%20man.png)
 
 
 
